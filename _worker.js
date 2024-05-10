@@ -21,8 +21,8 @@ let subconverter = 'apiurl.v1.mk';// clash订阅转换后端，目前使用肥�
 let subconfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"; //订阅配置文件
 let RproxyIP = 'false';
 
-let addressesapi = ['https://github.com/Gaging58/csv/blob/main/ipt.txt',];
-let addressescsv = ['https://github.com/Gaging58/csv/blob/main/result.csv', ];
+let addressesapi = ['https://github.com/Gaging58/asa/blob/main/ipt.txt',];
+let addressescsv = ['https://github.com/Gaging58/asa/blob/main/result.csv', ];
 let DLS = 8;
 
 let FileName = 'epeius';
