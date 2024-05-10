@@ -22,7 +22,7 @@ let subconfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/
 let RproxyIP = 'false';
 
 let addressesapi = ['https://github.com/Gaging58/asa/blob/main/ipt.txt',];
-let addressescsv = ['https://github.com/Gaging58/asa/blob/main/result.csv', ];
+let addressescsv = ['https://cf-workers-text2kv-2uw.pages.dev/resul.csv?token=123456', ];
 let DLS = 8;
 
 let FileName = 'epeius';
